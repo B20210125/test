@@ -2,7 +2,7 @@
 
 $servername = "localhost"; // This could be a domain or an IP address
 $username = "testadmin";
-$password = "";
+$password = "testadminpass";
 $database = "test";
 
 // Create connection
