@@ -1,9 +1,9 @@
 <?php 
 
-$servername = "sql12.freesqldatabase.com"; // This could be a domain or an IP address
-$username = "sql12667492";
-$password = "Azri@1234@0712";
-$database = "sql12667492";
+$servername = "localhost"; // This could be a domain or an IP address
+$username = "testadmin";
+$password = "";
+$database = "test";
 
 // Create connection
 $conn = new mysqli($servername, $username, $password, $database);
